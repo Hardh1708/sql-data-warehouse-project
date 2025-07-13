@@ -39,5 +39,5 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
   ## 🐞 About Me
 
-  Hi, there! I'm **Hardhik Kodi**. I'm a student in KL University Hyderabad, Aziznagar. I'm interested to share my portfolio project with you.
+  Hi, there! I'm **Hardhik Kodi**. I'm a student in KL University Hyderabad, Aziznagar. This is my portfolio project.
    
